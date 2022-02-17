@@ -6,7 +6,7 @@
 [![Build Status](https://travis-ci.org/nrk/predis.svg?branch=v1.0)](https://travis-ci.org/nrk/predis)
 [![HHVM Status](http://hhvm.h4cc.de/badge/predis/predis.png)](http://hhvm.h4cc.de/package/predis/predis)
 
-Predis is a flexible and feature-complete [Redis](http://redis.io) client library for PHP >= 5.3.
+
 
 By default this library does not require any additional C extension, but it can be optionally paired
 with [phpiredis](https://github.com/nrk/phpiredis) to lower the overhead of serializing and parsing
